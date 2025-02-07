@@ -1,0 +1,7 @@
+scholarly
+pandas
+datetime
+Flask
+flask-mongoengine
+Flask-Login
+gunicorn
