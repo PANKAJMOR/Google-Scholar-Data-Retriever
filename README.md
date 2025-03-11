@@ -48,7 +48,7 @@ A web-based application designed to extract, manage, and download scholarly data
 - 🔹 Deploy as a cloud-hosted service
 
 ## 🤝 Contributors
-🚀 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) **Harsh Balkrishna Vahal** ([@yourgithubhandle](https://github.com/hbv3074))  
+🚀 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) **Harsh Balkrishna Vahal** ([@Link](https://github.com/hbv3074))  
 🚀 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) **Pankaj More** ([@contributor2](https://github.com/contributor2))  
 🚀 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white) **Pratham Mali** ([@contributor3](https://github.com/contributor3))  
 
