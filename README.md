@@ -52,5 +52,6 @@ A web-based application designed to extract, manage, and download scholarly data
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PANKAJMOR) 
 🚀 **Harsh Balkrishna Vahal** 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hbv3074) 
+🚀 **Pratham Mali** 
 
 
